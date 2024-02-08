@@ -1,4 +1,5 @@
-// solution for small numbers
+// Given an integer n, return the number of trailing zeroes in n!.
+
 /**
  * @param {number} n
  * @return {number}
